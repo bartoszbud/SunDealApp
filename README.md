@@ -9,4 +9,5 @@ Functionality contains:
 - each product has an option exchange/give free
 - searching products
 
+Application is only for Android devices. 
 Project is based on Firebase.
