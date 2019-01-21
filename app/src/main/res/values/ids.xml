@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewSignup" type="id" />
+    <item name="textViewSignIn" type="id" />
+    <item name="textViewSignUp" type="id" />
+</resources>
